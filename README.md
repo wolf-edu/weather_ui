@@ -1,4 +1,4 @@
-## Sedona Weather ...
+## Sedona Weather ... v1.1
 
 Python app that fetches the weather forecast for Sedona, Az and shows temperature and wind data, using the [Streamlit](https://streamlit.io) library.
 
